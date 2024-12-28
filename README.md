@@ -120,7 +120,7 @@
         </div>
 
         <div class="logo">
-            <img src="imagenes/Logo_Restaurante.png.png" alt="Sabor Colombiano">
+            <img src="Imagenes/Logo_Restaurante.png.png" alt="Sabor Colombiano">
         </div>
 
         <div class="cantidad">
@@ -146,7 +146,7 @@
             { nombre: "Pollo Crispy", precio: 140000, imagen: "Imagenes/Pollo_crispy.png.png" },
             { nombre: "Picada", precio: 160000, imagen: "Imagenes/Picada.png.png" },
             { nombre: "Tintico", precio: 100000, imagen: "Imagenes/Tintico.png.png" },
-            { nombre: "Jugo de Maracuya", precio: 100000, imagen: "Imagenes/Jugo_maracuya.png.png" },
+            { nombre: "Jugo de Maracuya", precio: 100000, imagen: "Imagenes/Jugo_Maracuya.png.png" },
             { nombre: "Pony Malta", precio: 100000, imagen: "Imagenes/Pony_malta.png.png" },
             { nombre: "Arroz con leche", precio: 130000, imagen: "Imagenes/arroz_con_leche.png" },
             { nombre: "Aguardiente", precio: 160000, imagen: "Imagenes/Aguardiente.png" },
